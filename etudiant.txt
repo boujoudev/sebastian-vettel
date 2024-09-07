@@ -1,0 +1,23 @@
+Nom:DJADI
+Prenom:Boudjemaa
+Section:isil A
+Groupe:4
+Matricule:212131030544
+
+Nom:AKSOUH
+Prenom:Abderraouf
+Section:isil A 
+Groupe:4
+Matricule:212131096435
+
+Nom:KHETTAB
+Prenom:Okba
+Section:isil A 
+Groupe:4
+Matricule:212131056937
+
+Nom:HABBA
+Prenom:El Rayane
+Section:isil A 
+Groupe:4
+Matricule:212131093167

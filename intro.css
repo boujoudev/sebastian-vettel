@@ -1,0 +1,103 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: #000000;
+    
+   
+    
+}
+#header{
+    height: 120px;
+    
+    background-color: rgb(8, 8, 80);
+   
+    width: 100%;
+   
+}
+
+
+ h1 {
+    text-align: center;
+    padding-top: 3%;
+    
+    
+    
+    font-size: 55px;
+    Font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    background-color: rgb(8, 8, 80);
+
+}
+header h2{
+    margin-top: 20px;
+    margin-left: 3%;
+    font-family:Copperplate,Copperplate Gothic Light,fantasy ;
+    font-size: 45px;
+    background-color: #000000;
+    color: rgb(249, 249, 249);
+
+    
+    
+
+
+}
+p{
+    border: 20px solid rgb(10, 4, 43);
+    
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-left: 50px;
+    width: 40%;
+    float: left;
+    font-size: 20px;
+}
+#img{
+    
+    width: 40%;
+    float: right;
+    margin-right:50px ;
+   
+   
+    
+
+    
+}
+li {
+    clear: both;
+    font-size: 20px;
+
+    text-align: center;
+    margin: 0.5%;
+    padding: 1%;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30%;
+    margin-right: 30%;
+    transition: transform 0.5s ease;
+    list-style-type: none;
+
+
+
+
+}
+li:hover {
+    transform: scale(1.05);
+   
+    
+}
+
+
+main{
+    background-color: #36454F;
+}
+li a {
+    clear: both;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-decoration: none;
+    Font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;}
+        a {
+            text-decoration: none;
+            color: black;
+            background-color: rgba(32, 5, 92);
+            font-family: system-ui;
+        }
